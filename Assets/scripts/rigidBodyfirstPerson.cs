@@ -10,7 +10,14 @@ public class rigidBodyfirstPerson : MonoBehaviour
 {
 
 	public float moveSpeed = 5f;
+	
+	public float jumpSpeed = 5f;//or whatever you want it to be
+	public Rigidbody rb; //and again, whatever you want to call it
 
+	void Start (){
+		rb = GetComponent <Rigidbody>();
+	}
+	
 	private Vector3 inputVector;
 	
 	// Update is called once per frame
@@ -39,6 +46,11 @@ public class rigidBodyfirstPerson : MonoBehaviour
 
 		inputVector = transform.forward * vertical;
 		inputVector += transform.right * horizontal;
+		
+		if(Input.GetKeyDown(KeyCode.Space))
+		{
+			inputVector += transform.up * jumpSpeed;
+		}
 
 	}
 	
@@ -48,6 +60,5 @@ public class rigidBodyfirstPerson : MonoBehaviour
 	void FixedUpdate()
 	{
 		GetComponent<Rigidbody>().velocity = inputVector * moveSpeed + Physics.gravity * 0.25f;
-		
 	}	
 }

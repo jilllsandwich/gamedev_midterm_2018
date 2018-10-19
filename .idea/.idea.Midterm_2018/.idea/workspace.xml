@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="009a8891-3ee3-4bd3-9a61-2889b4a58b24" name="Default Changelist" comment="" />
+    <list default="true" id="009a8891-3ee3-4bd3-9a61-2889b4a58b24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Midterm_2018/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Midterm_2018/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Midterm_2018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Midterm_2018/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/adventure landing.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/adventure landing.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/colors/cg.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/colors/cg.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/NPCMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/NPCMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/rigidBodyfirstPerson.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/rigidBodyfirstPerson.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,45 +23,101 @@
     <session id="-1113923070">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="2" />
+          <entry key="cs" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="2" />
+          <entry key="C#" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="161" />
+          <entry key="cs" value="1007" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="161" />
+          <entry key="C#" value="1007" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/scripts/NPCMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="20">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="44" />
               <folding>
-                <marker date="1538679779000" expanded="false" signature="6:78" ph="..." />
-                <marker date="1538679779000" expanded="true" signature="121:359" ph="{...}" />
-                <marker date="1538679779000" expanded="true" signature="283:357" ph="{...}" />
+                <marker date="1539890372066" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539890372066" expanded="true" signature="121:997" ph="{...}" />
+                <marker date="1539890372066" expanded="true" signature="126:233" ph="/* player movement variables ... */" />
+                <marker date="1539890372066" expanded="true" signature="348:388" ph="{...}" />
+                <marker date="1539890372066" expanded="true" signature="442:784" ph="{...}" />
+                <marker date="1539890372066" expanded="true" signature="597:642" ph="{...}" />
+                <marker date="1539890372066" expanded="true" signature="820:995" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/scripts/NPCForward.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+              <folding>
+                <marker date="1539933678494" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539933678494" expanded="true" signature="120:354" ph="{...}" />
+                <marker date="1539933678494" expanded="true" signature="281:352" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/scripts/EndgameTrigger.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <marker date="1539935870304" expanded="true" signature="6:113" ph="..." />
+                <marker date="1539935870304" expanded="true" signature="158:326" ph="{...}" />
+                <marker date="1539935870304" expanded="true" signature="205:324" ph="{...}" />
+                <marker date="1539935870304" expanded="true" signature="259:321" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/scripts/rigidBodyfirstPerson.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="61" column="95" selection-start-line="61" selection-start-column="95" selection-end-line="61" selection-end-column="95" />
+              <folding>
+                <marker date="1539887120613" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539887120613" expanded="true" signature="81:163" ph="/* put on capsule with rigidbody ... */" />
+                <marker date="1539887120613" expanded="true" signature="214:1697" ph="{...}" />
+                <marker date="1539887120613" expanded="true" signature="390:429" ph="{...}" />
+                <marker date="1539887120613" expanded="true" signature="516:1450" ph="{...}" />
+                <marker date="1539887120613" expanded="true" signature="520:656" ph="/* mouse look ... */" />
+                <marker date="1539887120613" expanded="true" signature="1050:1259" ph="/* transform.position += transform.forward * vertical * moveSpeed; ... */" />
+                <marker date="1539887120613" expanded="true" signature="1394:1446" ph="{...}" />
+                <marker date="1539887120613" expanded="true" signature="1454:1576" ph="/* runs every physics frame (different framerate than input or rendering) ... */" />
+                <marker date="1539887120613" expanded="true" signature="1598:1694" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -62,13 +129,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/rigidBodyfirstPerson.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/EndgameTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/NPCForward.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NPCMovement.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/scripts/FirstPersonAndWASD.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/rigidBodyfirstPerson.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/NPCMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/NPCForward.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/EndgameTrigger.cs" />
       </list>
     </option>
   </component>
@@ -79,10 +152,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="595" />
+    <option name="x" value="56" />
     <option name="y" value="23" />
-    <option name="width" value="684" />
-    <option name="height" value="564" />
+    <option name="width" value="1030" />
+    <option name="height" value="567" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -92,9 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -106,6 +176,9 @@
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
     </panes>
@@ -156,11 +229,13 @@
       <workItem from="1538497052592" duration="448000" />
       <workItem from="1538498742777" duration="441000" />
       <workItem from="1538678119211" duration="761000" />
+      <workItem from="1539721911150" duration="812000" />
+      <workItem from="1539886397928" duration="3997000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1650000" />
+    <option name="totallyTimeSpent" value="6459000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -172,10 +247,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="595" y="23" width="684" height="564" extended-state="0" />
+    <frame x="56" y="23" width="1030" height="567" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25929368" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.020242915" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -220,14 +295,62 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/scripts/FirstPersonAndWASD.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/rigidBodyfirstPerson.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="61" column="95" selection-start-line="61" selection-start-column="95" selection-end-line="61" selection-end-column="95" />
+          <folding>
+            <marker date="1539887120613" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539887120613" expanded="true" signature="81:163" ph="/* put on capsule with rigidbody ... */" />
+            <marker date="1539887120613" expanded="true" signature="214:1697" ph="{...}" />
+            <marker date="1539887120613" expanded="true" signature="390:429" ph="{...}" />
+            <marker date="1539887120613" expanded="true" signature="516:1450" ph="{...}" />
+            <marker date="1539887120613" expanded="true" signature="520:656" ph="/* mouse look ... */" />
+            <marker date="1539887120613" expanded="true" signature="1050:1259" ph="/* transform.position += transform.forward * vertical * moveSpeed; ... */" />
+            <marker date="1539887120613" expanded="true" signature="1394:1446" ph="{...}" />
+            <marker date="1539887120613" expanded="true" signature="1454:1576" ph="/* runs every physics frame (different framerate than input or rendering) ... */" />
+            <marker date="1539887120613" expanded="true" signature="1598:1694" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/scripts/NPCMovement.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="20">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="44" />
           <folding>
-            <marker date="1538679779000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1538679779000" expanded="true" signature="121:359" ph="{...}" />
-            <marker date="1538679779000" expanded="true" signature="283:357" ph="{...}" />
+            <marker date="1539890372066" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539890372066" expanded="true" signature="121:997" ph="{...}" />
+            <marker date="1539890372066" expanded="true" signature="126:233" ph="/* player movement variables ... */" />
+            <marker date="1539890372066" expanded="true" signature="348:388" ph="{...}" />
+            <marker date="1539890372066" expanded="true" signature="442:784" ph="{...}" />
+            <marker date="1539890372066" expanded="true" signature="597:642" ph="{...}" />
+            <marker date="1539890372066" expanded="true" signature="820:995" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/NPCForward.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <marker date="1539933678494" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539933678494" expanded="true" signature="120:354" ph="{...}" />
+            <marker date="1539933678494" expanded="true" signature="281:352" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/EndgameTrigger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <marker date="1539935870304" expanded="true" signature="6:113" ph="..." />
+            <marker date="1539935870304" expanded="true" signature="158:326" ph="{...}" />
+            <marker date="1539935870304" expanded="true" signature="205:324" ph="{...}" />
+            <marker date="1539935870304" expanded="true" signature="259:321" ph="{...}" />
           </folding>
         </state>
       </provider>

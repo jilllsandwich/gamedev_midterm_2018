@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/adventure landing.unity
     guid: 141a183c91f934241b77e0a1900afc66
+  - enabled: 0
+    path: Assets/Scenes/Endgame Screen.unity
+    guid: 56888c137ae344930900e5c1c04d90da
+  - enabled: 1
+    path: Assets/Scenes/EndgameScreen.unity
+    guid: 1ce1bd3777d6248c1b765a8fde0a98d3
   m_configObjects: {}
